@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ab5e824efc609a43a51b175526861fd, type: 3}
+  m_Name: PlaneConfig
+  m_EditorClassIdentifier: 
+  _airPlane: {fileID: 6280703886007801664, guid: eb05cbb73fbe3f845886c5472119dcbb,
+    type: 3}
+  _sectionPrefab: {fileID: 7138908624528813646, guid: 33b1fef5b3126214c9a15ca852e58b54,
+    type: 3}
+  _sectionsCount: 5
